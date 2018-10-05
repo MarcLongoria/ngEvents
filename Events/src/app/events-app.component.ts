@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-events',
   template: `
-    <events-list></events-list>
+    <app-events-list></app-events-list>
   `
 })
 export class EventsAppComponent {
